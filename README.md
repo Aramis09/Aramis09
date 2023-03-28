@@ -20,7 +20,8 @@ Here are some ideas to get you started:
  ✅ Hola, mi nombre es Aramis soy de Argentina y tengo 23 Años. Soy desarrollador JavaScript orientado al Front-End
 pero tengo buen manejo del ORM sequelize.
 
-Soy estudiante de ingeniería electronica, estoy en 4 año ,sin embargo, estoy buscando trabajo a tiempo completo en este rubro de la programación.
+Soy estudiante de ingeniería electronica, estoy en 4 año ,sin embargo, estoy buscando trabajo a tiempo completo en 
+este rubro de la programación.
 Conocí la programación de micro-controladores primero, pero luego decidí estudiar y especializarme en la web.
 
 ✅ Me gusta trabajar de forma modularizada y ordenada, además de utilizar nombre significativos pare que cualquier

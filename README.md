@@ -17,15 +17,9 @@ Here are some ideas to get you started:
 
 ### 👉Quien Soy?
 ```
- ✅ Hola, mi nombre es Aramis soy de Argentina y tengo 23 Años. Soy desarrollador JavaScript orientado al Front-End
-pero tengo buen manejo del ORM sequelize.
+👨‍💻 Soy un desarrollador de software con una personalidad sumamente solidaria. Ofrezco mis conocimientos técnicos y mi actitud resolutiva-analítica para brindar el mayor valor a mi trabajo. Soy un apasionado de los desafíos; disfruto escribir código, pero me apasiona aún más resolver problemas complejos a nivel de sistemas y estructuras.
 
-Soy estudiante de ingeniería electronica, estoy en 4 año ,sin embargo, estoy buscando trabajo a tiempo completo en 
-este rubro de la programación.
-Conocí la programación de micro-controladores primero, pero luego decidí estudiar y especializarme en la web.
-
-✅ Me gusta trabajar de forma modularizada y ordenada, además de utilizar nombre significativos pare que cualquier
-compañero de trabajo pueda seguir y entender el flujo de mi código.
+🤝 Mi característica principal es que siempre mejoro la comunicación de donde trabajo. En mi experiencia como desarrollador, he aprendido enseñando tanto como practicando. Tengo la valentía de preguntar cuando lo necesito, la humildad para aceptar correcciones y la empatía para ayudar a los demás..
 
 La herramienta de versionado que uso actualmente es GIT HUB. Tengo la capacidad de desenvolverme correctamente, 
 cumpliendo el ciclo común de la herramienta.
@@ -36,25 +30,36 @@ cumpliendo el ciclo común de la herramienta.
  ```
 ### 👉 Que tecnologías manejo ?
 ```
-✅ React JS
-✅ Redux
-✅ Redux Tollkit
-✅ HTML
-✅ CSS
-✅ Node JS
-✅ Sequalize
-✅ PostgreSQL
+✅ RESTful APIs.
+
+✅Versionado: Github, GitLab, Console Github
+desktop.
+
+✅Comunicación: Slack, Zoom, Google Meets, Teams,
+Discord, Trello, Figma, Jira.
+
+✅Lenguajes de programación: JavaScript, TypeScript,
+Dart, python (basico), c# (basico), assembler.
+
+✅Programas: Proteus, visual sudio code.
+
+✅Librería terceros: Auth0, Framer Motion, Tailwind
+PrimerReact, PrimeFlex, React, Next js,Flutter,
+React Native, cloudinary, SDK mercado pago,
+,Express, Sequelize, TypeORM, Jest, SQL, JWT.
+
+✅Arquitectura patrones de diseño : arquitectura
+limpia, arquitectura hexagonal, patron repository,
+patron, solid.
 ```
 ### 👉 Que estoy estudiando actualmente ?
 ```
- ✅ React Native. 
- ✅ Sass.
- ✅ TypeScript.
  ✅ Ingles (A1-A2).
+ ✅ Docker 
+ ✅ Developer - Associate AWS
  ```
 ### ☎Contactos:
 ```
-✅ +54 9 3856886004
 ✅ aramisjaime48@gmail.com
 ✅ linkedin.com/in/AramisDev
 ```

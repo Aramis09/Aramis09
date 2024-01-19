@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 
 ### 👉Quien Soy?
 ```
-👨‍💻 Soy un desarrollador de software con una personalidad sumamente solidaria. Ofrezco mis conocimientos técnicos y mi actitud resolutiva-analítica para brindar el mayor valor a mi trabajo. Soy un apasionado de los desafíos; disfruto escribir código, pero me apasiona aún más resolver problemas complejos a nivel de sistemas y estructuras.
+👨‍💻 Soy un desarrollador de software con una personalidad sumamente solidaria. Ofrezco mis 
+conocimientos técnicos y mi actitud resolutiva-analítica para brindar el mayor valor a mi trabajo. 
+Soy un apasionado de los desafíos; disfruto escribir código, pero me apasiona aún más resolver problemas complejos a nivel de sistemas y estructuras.
 
-🤝 Mi característica principal es que siempre mejoro la comunicación de donde trabajo. En mi experiencia como desarrollador, he aprendido enseñando tanto como practicando. Tengo la valentía de preguntar cuando lo necesito, la humildad para aceptar correcciones y la empatía para ayudar a los demás..
+🤝 Mi característica principal es que siempre mejoro la comunicación de donde trabajo. 
+En mi experiencia como desarrollador, he aprendido enseñando tanto como practicando. 
+Tengo la valentía de preguntar cuando lo necesito, la humildad para aceptar correcciones y la empatía para ayudar a los demás..
 
 La herramienta de versionado que uso actualmente es GIT HUB. Tengo la capacidad de desenvolverme correctamente, 
 cumpliendo el ciclo común de la herramienta.

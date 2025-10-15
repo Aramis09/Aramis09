@@ -1,67 +1,22 @@
-### Hola a todos !!! 😄😄😄
 
-<!--
-**Aramis09/Aramis09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer SSR (Semi-Senior) JavaScript, TypeScript, Next js, Node, React Native, Nest js (BFF)
 
-Here are some ideas to get you started:
+Aramis Sebastián Jaime
+25 años, viviendo en Argentina. Soy desarrollador con experiencia en web, mobile, interesado en trabajar en puestos como frontend (web o mobile), ya sea a medio tiempo o tiempo completo, preferentemente a tiempo completo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi perfil es muy flexible y útil, ya que cuento con habilidades altamente valoradas en el mundo del desarrollo de software. Sumarme a un equipo como desarrollador SSR tendrá un impacto positivo en su proyecto o empresa.
 
-### 👉Quien Soy?
-```
-👨‍💻 Soy un desarrollador de software con una personalidad sumamente solidaria. Ofrezco mis 
-conocimientos técnicos y mi actitud resolutiva-analítica para brindar el mayor valor a mi trabajo. 
-Soy un apasionado de los desafíos; disfruto escribir código, pero me apasiona aún más resolver problemas complejos a nivel de sistemas y estructuras.
+Tengo la capacidad de trabajar de manera independiente o en equipo. Mis habilidades de comunicación son excelentes gracias a mi punto de vista objetivo. Además, tengo la disposición de ayudar a los más juniors y aprender de los más seniors, lo que hace que mi perfil sea un factor clave para ambos.
 
-🤝 Mi característica principal es que siempre mejoro la comunicación de donde trabajo. 
-En mi experiencia como desarrollador, he aprendido enseñando tanto como practicando. 
-Tengo la valentía de preguntar cuando lo necesito, la humildad para aceptar correcciones y la empatía para ayudar a los demás..
+En caso de no contar con un equipo, mi experiencia como freelance me permite resolver casi cualquier problemática por mi cuenta, ofreciendo soluciones y opciones al empleador, siempre buscando minimizar pérdidas. Mis recomendaciones respaldan mi trabajo, ya que me esfuerzo por ser responsable, respetuoso, útil y bondadoso con los demás.
 
-La herramienta de versionado que uso actualmente es GIT HUB. Tengo la capacidad de desenvolverme correctamente, 
-cumpliendo el ciclo común de la herramienta.
-```
-### 👉Cual es la metodología de trabajo?
-```
- ✅Tengo experiencia trabajando con la metodología ágil scrum, manejando herramientas como Jira, Figma, Slack. 
- ```
-### 👉 Que tecnologías manejo ?
-```
-✅ RESTful APIs.
+Si está interesado en mi perfil y no tenemos conexión, le facilito mi correo electrónico para que pueda contactarme: aramisjaime48@gmail.com.
 
-✅Versionado: Github, GitLab, Console Github
-desktop.
-
-✅Comunicación: Slack, Zoom, Google Meets, Teams,
-Discord, Trello, Figma, Jira.
-
-✅Lenguajes de programación: JavaScript, TypeScript,
-Dart, python (basico), c# (basico), assembler.
-
-✅Programas: Proteus, visual sudio code.
-
-✅Librería terceros: Auth0, Framer Motion, Tailwind
-PrimerReact, PrimeFlex, React, Next js,Flutter,
-React Native, cloudinary, SDK mercado pago,
-,Express, Sequelize, TypeORM, Jest, SQL, JWT.
-
-✅Arquitectura patrones de diseño : arquitectura
-limpia, arquitectura hexagonal, patron repository,
-patron, solid.
-```
-### 👉 Que estoy estudiando actualmente ?
-```
- ✅ Ingles (A1-A2).
- ✅ Docker 
- ✅ Developer - Associate AWS
- ```
+✡ Programming Languages: JavaScript, TypeScript, Assembler
+✡ Technologies: Tailwind CSS, React query, Zod, React Hook Form, Storybook, Shadcn, React, Next.js, React Native, Express, Sequelize, Node, TypeORM, Jest, SQL, JWT, Nest js, Hono js, Auth0, Bootstrap.
+✡ Communication Tools: Slack, Zoom, Google Meet, Teams, Discord, Trello, Figma, Jira
+✡ Version Control: GitHub, GitHub Desktop Console
+✡ Architecture and Design Patterns: Clean Architecture, Hexagonal Architecture, Repository Pattern
 ### ☎Contactos:
 ```
 ✅ aramisjaime48@gmail.com
